@@ -8,12 +8,12 @@ This repository contains 3 independent projects.
 📁 `project-1-transaction-api`  
 REST API for managing transactions.
 
-### 2. Transaction Categorizer
-📁 `project-2-categorizer`  
+### 2. Transaction Dashboard
+📁 `project-2-dashboard`  
 Service for categorizing spending types using rules/LLM.
 
-### 3. Dashboard
-📁 `project-3-dashboard`  
+### 3. Transaction Categorizer
+📁 `project-3-categorizer`  
 Frontend dashboard for visualizing spending.
 
 ---
