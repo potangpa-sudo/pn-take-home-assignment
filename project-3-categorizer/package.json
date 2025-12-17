@@ -1,0 +1,27 @@
+{
+  "name": "transaction-categorizer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Assignment 3: Transaction Categorizer (LLM Integration)",
+  "scripts": {
+  "start": "node dist/index.js",
+  "dev": "tsx src/index.ts",
+  "build": "tsc -p tsconfig.json",
+  "test": "vitest run"
+},
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.104.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+  
+}
